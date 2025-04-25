@@ -1,0 +1,2 @@
+Test Case 1 (testcase1.json): The secret (f(0)) is: 3
+Test Case 2 (testcase2.json): The secret (f(0)) is: 79,836,264,059,565
